@@ -1,0 +1,18 @@
+{
+  "item.mptmod.apple": "Фл Шняжка",
+  "item.mptmod.apple_ore": "Фл добыча",
+  "itemGroup.Mpt tab": "FL mod",
+  "block.mptmod.apple_block": "Фл блок",
+  "block.mptmod.apple_raw": "Фл руда",
+  "block.mptmod.deepslate_apple_raw": "Фл deep руда",
+  "item.mptmod.apple_boots": "Фл ботинки",
+  "item.mptmod.apple_leggings": "Фл поножи",
+  "item.mptmod.apple_chestplate": "Фл нагрудник",
+  "item.mptmod.apple_helmet": "Фл шлем",
+  "item.mptmod.apple_tool": "Фл мультитул",
+  "item.mptmod.apple_hoe": "Фл мотыга",
+  "item.mptmod.apple_axe": "Фл топор",
+  "item.mptmod.apple_shovel": "Фл лопата",
+  "item.mptmod.apple_pickaxe": "Фл кирка",
+  "item.mptmod.apple_sword": "Фл меч"
+}
